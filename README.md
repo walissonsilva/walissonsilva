@@ -14,7 +14,7 @@
 - Entusiata de Software Livre, especialmente de Linux. 🐧
 
  <br/>
- <br/> :red_heart: &nbsp; Gosto muito das linguagens Python e JavaScript!
+ <br/> :heart: &nbsp; Gosto muito das linguagens Python e JavaScript!
  <br/> :blush: &nbsp; Posso te ajudar com Python e Data Science
  <br/> :computer: &nbsp; Frameworks que utilizo/estudo: ReactJS, Node.js, React Native
  <br/> 
