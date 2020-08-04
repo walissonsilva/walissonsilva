@@ -17,6 +17,6 @@
  <br/> :heart: &nbsp; Gosto muito das linguagens Python e JavaScript!
  <br/> :blush: &nbsp; Posso te ajudar com Python e Data Science
  <br/> :computer: &nbsp; Frameworks que utilizo/estudo: ReactJS, Node.js, React Native 
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-WalissonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walissonsilva/)](https://www.linkedin.com/in/walissonsilva/)
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-WalissonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walissonsilva/)](https://www.linkedin.com/in/walissonsilva/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-walissonsilva10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walissonsilva10@gmail.com)](mailto:walissonsilva10@gmail.com)
