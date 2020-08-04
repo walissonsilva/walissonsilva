@@ -1,16 +1,22 @@
-### Hi there 👋
+<img width="auto" src="https://lh3.googleusercontent.com/SX9YS1EI2rjLctRJSfl74c3bW-ivwMyNb7vB-6m5UabVniSXEjrwosta-XqXqNTT-xFHuCVBscoKzEill7iTvO2C7qxzE8Pu3UkbRaONr1AUZI6K7gWO2zhbqUL-GZ5xvt1LkqZpY6k=w2400">
 
-<!--
-**walissonsilva/walissonsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Walisson da Silva Soares
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quem sou eu? 👋
+- Professor na Let's Code Academy 👨‍🏫
+- Mestre em Engenharia Elétrica (ênfase em Processamento de Sinais) 📊
+- Engenheiro Eletricista ⚡
+- Técnico em Eletrônica 🔋
+- Desenvolvedor Web 💻
+- Programador em Python (ênfase Data Science) 📈
+- YouTuber 🎞️
+- Entusiata de Software Livre, especialmente de Linux. 🐧
+
+ :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com Python e Data Science
+ <br/> :computer: &nbsp; Frameworks que utilizo/estudo: ReactJS, Node.js, React Native
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walissonsilva/)](https://www.linkedin.com/in/walissonsilva/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-walissonsilva10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walissonsilva10@gmail.com)](mailto:walissonsilva10@gmail.com)
