@@ -17,7 +17,6 @@
  <br/> :heart: &nbsp; Gosto muito das linguagens Python e JavaScript!
  <br/> :blush: &nbsp; Posso te ajudar com Python e Data Science
  <br/> :computer: &nbsp; Frameworks que utilizo/estudo: ReactJS, Node.js, React Native 
- <br/> :email: &nbsp; Entre em contato comigo:
  <br/>
  <br/>
  
