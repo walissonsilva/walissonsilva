@@ -9,7 +9,7 @@
 - Engenheiro Eletricista ⚡
 - Técnico em Eletrônica 🔋
 - Desenvolvedor Web 💻
-- Programador em Python (ênfase Data Science) 📈
+- Programador em Python (ênfase em Data Science) 📈
 - YouTuber 🎞️
 - Entusiata de Software Livre, especialmente de Linux. 🐧
 
