@@ -9,7 +9,6 @@
  <br/> 📈 Programador em Python (ênfase em Data Science)
  <br/> 🎞️ YouTuber
  <br/> 🐧 Entusiata de Software Livre, especialmente de Linux.
- <br/>
  <br/> :heart: &nbsp; Gosto muito das linguagens Python e JavaScript!
  <br/> :blush: &nbsp; Posso te ajudar com Python e Data Science
  <br/> :computer: &nbsp; Frameworks que utilizo/estudo: ReactJS, Node.js, React Native 
