@@ -7,7 +7,7 @@
 
 ## About me
 
-💻  Desenvolvedor Web Full Stack  
+💻 &nbsp;Desenvolvedor Web Full Stack  
 👨‍🏫  Professor de Programação  
 📊  Mestre em Engenharia Elétrica (ênfase em Processamento de Sinais)  
 ⚡  Engenheiro Eletricista  
