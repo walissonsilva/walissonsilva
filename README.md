@@ -6,17 +6,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-WalissonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walissonsilva/)](https://www.linkedin.com/in/walissonsilva/) 
 [![Gmail Badge](https://img.shields.io/badge/-walissonsilva10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walissonsilva10@gmail.com)](mailto:walissonsilva10@gmail.com)
 
-## About me 👋
+## About me
  <br/> 💻 Desenvolvedor Web Full Stack
  <br/> 👨‍🏫 Professor de Programação
  <br/> 📊 Mestre em Engenharia Elétrica (ênfase em Processamento de Sinais)
  <br/> ⚡ Engenheiro Eletricista
  <br/> 🔋 Técnico em Eletrônica
  <br/> 🎞️ YouTuber
- <br/> 🐧 Entusiata de Software Livre, especialmente de Linux.
- <br/> :heart: &nbsp; Gosto muito das linguagens Python e JavaScript!
- <br/> :blush: &nbsp; Posso te ajudar com Python e Data Science
- <br/> :computer: &nbsp; Frameworks que utilizo/estudo: ReactJS, Node.js, React Native 
+ <br/> 🐧 Entusiata de Software Livre, especialmente de Linux. 
  <br/>
  <br/>
 
