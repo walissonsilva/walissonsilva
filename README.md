@@ -1,9 +1,9 @@
 # Walisson Silva
 
-[![Blog Badge](https://img.shields.io/badge/Blog-walissonsilva.com-blue)](https://walissonsilva.com/blog)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/walissonsilva)](https://youtube.com/c/walissonsilva)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-WalissonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walissonsilva/)](https://www.linkedin.com/in/walissonsilva/) 
 [![Gmail Badge](https://img.shields.io/badge/-walissonsilva10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walissonsilva10@gmail.com)](mailto:walissonsilva10@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/Blog-walissonsilva.com-blue)](https://walissonsilva.com/blog)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/walissonsilva)](https://youtube.com/c/walissonsilva)
 
 ## About me
 
