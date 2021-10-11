@@ -8,29 +8,29 @@
 ## About me
 
 💻 &nbsp;Desenvolvedor Web Full Stack  
-👨‍🏫  Professor de Programação  
-📊  Mestre em Engenharia Elétrica (ênfase em Processamento de Sinais)  
-⚡  Engenheiro Eletricista  
-🔋  Técnico em Eletrônica  
-🎞️  YouTuber  
-🐧  Entusiata de Software Livre, especialmente de Linux.  
+👨‍🏫 &nbsp;Professor de Programação  
+📊 &nbsp;Mestre em Engenharia Elétrica (ênfase em Processamento de Sinais)  
+⚡ &nbsp;Engenheiro Eletricista  
+🔋 &nbsp;Técnico em Eletrônica  
+🎥 &nbsp;YouTuber  
+🐧 &nbsp;Entusiata de Software Livre, especialmente de Linux.  
 
 ## Experiência Profissional
 
-💻  [Set/2020 - Presente] Desenvolvedor Web Full Stack na Let's Code  
-👨‍🏫  [Set/2020 - Presente] Professor na Let's Code (Web Full Stack e Data Science)  
-👨‍🏫  [Mar/2020 - Jul/2020] Professor na Kronos Nexus  
+💻 &nbsp;[Set/2020 - Presente] Desenvolvedor Web Full Stack na Let's Code  
+👨‍🏫 &nbsp;[Set/2020 - Presente] Professor na Let's Code (Web Full Stack e Data Science)  
+👨‍🏫 &nbsp;[Mar/2020 - Jul/2020] Professor na Kronos Nexus  
  
 ## Tecnologias
 
 ### Tenho domínio
 
-👨🏽‍💻  HTML, CSS e JavaScript  
-⚛️  Next.js e ReactJS  
-⚛️  Node.js  
-📈  Linguagem Python (ênfase em Data Science)  
+👨🏽‍💻 &nbsp;HTML, CSS e JavaScript  
+⚛️ &nbsp;Next.js e ReactJS  
+⚛️ &nbsp;Node.js  
+📈 &nbsp;Linguagem Python (ênfase em Data Science)  
 
 ### Estou estudando
 
-📱  React Native
+📱 &nbsp;React Native
 
