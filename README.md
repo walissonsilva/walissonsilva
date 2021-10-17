@@ -27,7 +27,7 @@
 
 👨🏽‍💻 &nbsp;HTML, CSS e JavaScript  
 ⚛️ &nbsp;Next.js e ReactJS  
-⚛️ &nbsp;Node.js  
+✅ &nbsp;Node.js  
 📈 &nbsp;Linguagem Python (ênfase em Data Science)  
 
 ### Estou estudando
