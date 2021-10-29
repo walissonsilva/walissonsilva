@@ -5,6 +5,8 @@
 [![Blog Badge](https://img.shields.io/badge/Blog-walissonsilva.com-blue)](https://walissonsilva.com/blog)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/walissonsilva)](https://youtube.com/c/walissonsilva)
 
+<img align="right" src="https://komarev.com/ghpvc/?username=walissonsilva" alt="WalissonSilva's Profile Views" />
+
 ## About me
 
 💻 &nbsp;Desenvolvedor Web Full Stack  
@@ -34,3 +36,5 @@
 
 📱 &nbsp;React Native
 
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
