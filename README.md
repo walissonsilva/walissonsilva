@@ -29,10 +29,30 @@
 
 ### Tenho domínio
 
-👨🏽‍💻 &nbsp;HTML, CSS e JavaScript  
-⚛️ &nbsp;Next.js e ReactJS  
-✅ &nbsp;Node.js  
-📈 &nbsp;Linguagem Python (ênfase em Data Science)  
+  <a href="#" target="_self"> 
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="#" target="_self"> 
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="http://assets.stickpng.com/thumbs/584830f5cef1014c0b5e4aa1.png" alt="React" width="40" height="40"/>
+  </a> 
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.icons8.com/color/144/000000/linux--v1.png" alt="linux" width="40" height="40"/>
+  </a> 
 
 ### Estou estudando
 
