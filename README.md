@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="React" width="40" height="40"/>
+    <img src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg" alt="React" width="40" height="40"/>
   </a> 
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="Next.js" width="40" height="40"/>
@@ -57,6 +57,3 @@
 ### Estou estudando
 
 📱 &nbsp;React Native
-
-
-![](https://komarev.com/ghpvc/?username=your-github-username)
