@@ -1,11 +1,11 @@
 # Walisson Silva
 
+<img align="right" src="https://komarev.com/ghpvc/?username=walissonsilva" alt="WalissonSilva's Profile Views" />
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-WalissonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walissonsilva/)](https://www.linkedin.com/in/walissonsilva/) 
 [![Gmail Badge](https://img.shields.io/badge/-walissonsilva10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walissonsilva10@gmail.com)](mailto:walissonsilva10@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Blog-walissonsilva.com-blue)](https://walissonsilva.com/blog)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/walissonsilva)](https://youtube.com/c/walissonsilva)
-
-<img align="right" src="https://komarev.com/ghpvc/?username=walissonsilva" alt="WalissonSilva's Profile Views" />
 
 ![Walisson Silva's github stats](https://github-readme-stats.vercel.app/api?username=walissonsilva&show_icons=true&theme=tokyonight)
 
@@ -62,7 +62,6 @@
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
