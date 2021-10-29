@@ -42,7 +42,7 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg" alt="React" width="40" height="40"/>
   </a> 
   <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="Next.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png" alt="Next.js" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/en/" target="_blank"> 
     <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="40" height="40"/>
