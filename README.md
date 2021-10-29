@@ -7,6 +7,8 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=walissonsilva" alt="WalissonSilva's Profile Views" />
 
+![Walisson Silva's github stats](https://github-readme-stats.vercel.app/api?username=walissonsilva&show_icons=true&theme=tokyonight)
+
 ## About me
 
 💻 &nbsp;Desenvolvedor Web Full Stack  
