@@ -27,35 +27,47 @@
  
 ## Tecnologias
 
-### Tenho domínio
+### 🛠️ Skills
 
-<div style="display: flex; justify-content: space-around; align-items: center">
-  <a href="#" target="_self"> 
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="HTML" width="60" height="60"/>
-  </a>
-  <a href="#" target="_self"> 
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS3" width="60" height="60"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg" alt="React" width="60" height="60"/>
-  </a> 
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img style="border-radius: 50%" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" alt="Next.js" width="60" height="60"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="54" height="60"/>
-  </a>
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.icons8.com/color/144/000000/linux--v1.png" alt="linux" width="60" height="60"/>
-  </a>
-</div>
+#### :wrench: Tools and environments
 
-### Estou estudando
+<!-- GIT -->
+<a href="#">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<!-- NPM -->
+<a href="#">
+      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+<!-- YARN -->
+<a href="#">
+      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+</a>
 
-📱 &nbsp;React Native
+### :computer: Front-End Development
+
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+### :computer: Back-End Development
+
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+
+### :computer: Testing
+
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
