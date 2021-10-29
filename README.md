@@ -30,28 +30,28 @@
 ### Tenho domínio
 
   <a href="#" target="_self"> 
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="HTML" width="40" height="40"/>
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="HTML" width="60" height="60"/>
   </a>
   <a href="#" target="_self"> 
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS3" width="40" height="40"/>
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS3" width="60" height="60"/>
   </a>
   <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg" alt="React" width="40" height="40"/>
+    <img src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg" alt="React" width="60" height="60"/>
   </a> 
   <a href="https://nextjs.org/" target="_blank"> 
-    <img style="border-radius: 50%" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="Next.js" width="40" height="40"/>
+    <img style="border-radius: 50%" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="Next.js" width="60" height="60"/>
   </a>
   <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="60" height="60"/>
   </a>
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.icons8.com/color/144/000000/linux--v1.png" alt="linux" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/144/000000/linux--v1.png" alt="linux" width="60" height="60"/>
   </a> 
 
 ### Estou estudando
