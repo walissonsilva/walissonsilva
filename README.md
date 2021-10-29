@@ -19,15 +19,7 @@
 🎥 &nbsp;YouTuber  
 🐧 &nbsp;Entusiata de Software Livre, especialmente de Linux.  
 
-## Experiência Profissional
-
-💻 &nbsp;[Set/2020 - Presente] Desenvolvedor Web Full Stack na Let's Code  
-👨‍🏫 &nbsp;[Set/2020 - Presente] Professor na Let's Code (Web Full Stack e Data Science)  
-👨‍🏫 &nbsp;[Mar/2020 - Jul/2020] Professor na Kronos Nexus  
- 
-## Tecnologias
-
-### 🛠️ Skills
+## 🛠️ Skills
 
 #### :wrench: Tools and environments
 
@@ -70,3 +62,10 @@
 ### :computer: Testing
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+
+## Experiência Profissional
+
+💻 &nbsp;[Set/2020 - Presente] Desenvolvedor Web Full Stack na Let's Code  
+👨‍🏫 &nbsp;[Set/2020 - Presente] Professor na Let's Code (Web Full Stack e Data Science)  
+👨‍🏫 &nbsp;[Mar/2020 - Jul/2020] Professor na Kronos Nexus  
