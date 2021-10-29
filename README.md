@@ -42,17 +42,17 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg" alt="React" width="60" height="60"/>
   </a> 
   <a href="https://nextjs.org/" target="_blank"> 
-    <img style="border-radius: 50%" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="Next.js" width="60" height="60"/>
+    <img style="border-radius: 50%" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="Next.js" width="70" height="60"/>
   </a>
   <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="60" height="60"/>
+    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="50" height="60"/>
   </a>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.icons8.com/color/144/000000/linux--v1.png" alt="linux" width="60" height="60"/>
-  </a> 
+  </a>
 
 ### Estou estudando
 
