@@ -29,6 +29,7 @@
 
 ### Tenho domínio
 
+<div style="display: flex; justify-content: space-around; align-items: center">
   <a href="#" target="_self"> 
     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="HTML" width="60" height="60"/>
   </a>
@@ -53,6 +54,7 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.icons8.com/color/144/000000/linux--v1.png" alt="linux" width="60" height="60"/>
   </a>
+</div>
 
 ### Estou estudando
 
