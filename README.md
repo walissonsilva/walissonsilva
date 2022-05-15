@@ -13,9 +13,9 @@
 
 💻 &nbsp;Desenvolvedor Web Full Stack  
 👨‍🏫 &nbsp;Professor de Programação  
-📊 &nbsp;Mestre em Engenharia Elétrica (ênfase em Processamento de Sinais)  
-⚡ &nbsp;Bacharel em Engenheiro Elétrica  
 🆙 &nbsp;Cerficado pela AWS (Cloud Practitioner)  
+📊 &nbsp;Mestre em Engenharia Elétrica (ênfase em Processamento de Sinais)  
+⚡ &nbsp;Bacharel em Engenheiro Elétrica    
 🎥 &nbsp;YouTuber  
 🐧 &nbsp;Entusiata de Software Livre, especialmente de Linux.  
 
