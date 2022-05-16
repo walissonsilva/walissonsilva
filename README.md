@@ -27,7 +27,7 @@
 
 ## 🛠️ Skills
 
-#### :wrench: Tools and environments
+### :wrench: Tools and environments
 
 <!-- GIT -->
 <a href="#">
