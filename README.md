@@ -15,9 +15,8 @@
 👨‍🏫 &nbsp;Professor de Programação  
 🆙 &nbsp;Cerficado pela AWS (Cloud Practitioner)  
 📊 &nbsp;Mestre em Engenharia Elétrica (ênfase em Processamento de Sinais)  
-⚡ &nbsp;Bacharel em Engenheiro Elétrica    
+⚡ &nbsp;Bacharel em Engenharia Elétrica    
 🎥 &nbsp;YouTuber  
-🐧 &nbsp;Entusiata de Software Livre, especialmente de Linux.  
 
 ## Experiência Profissional
 
