@@ -9,7 +9,7 @@
 
 <!--![Walisson Silva's github stats](https://github-readme-stats.vercel.app/api?username=walissonsilva&show_icons=true&theme=tokyonight)-->
 
-## About me
+## Sobre mim
 
 💻 &nbsp;Desenvolvedor Web Full Stack  
 👨‍🏫 &nbsp;Professor de Programação  
@@ -20,8 +20,8 @@
 
 ## Experiência Profissional
 
-💻 &nbsp;[Set/2020 - Presente] Desenvolvedor Web Full Stack na Let's Code  
-👨‍🏫 &nbsp;[Set/2020 - Presente] Professor na Let's Code (Web Full Stack e Data Science)  
+💻 &nbsp;[Set/2020 - Presente] Desenvolvedor Web Full Stack na Ada  
+👨‍🏫 &nbsp;[Set/2020 - Presente] Professor na Ada (Web Full Stack e Data Science)  
 👨‍🏫 &nbsp;[Mar/2020 - Jul/2020] Professor na Kronos Nexus  
 
 ## 🛠️ Skills
