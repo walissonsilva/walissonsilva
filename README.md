@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-💻 &nbsp;Desenvolvedor Web Full Stack  
+💻 &nbsp;Engenheiro de Software  
 👨‍🏫 &nbsp;Professor de Programação  
 🆙 &nbsp;Cerficado pela AWS (Cloud Practitioner)  
 📊 &nbsp;Mestre em Engenharia Elétrica (ênfase em Processamento de Sinais)  
@@ -20,8 +20,9 @@
 
 ## Experiência Profissional
 
-💻 &nbsp;[Set/2020 - Presente] Desenvolvedor Web Full Stack na Ada  
-👨‍🏫 &nbsp;[Set/2020 - Presente] Professor na Ada (Web Full Stack e Data Science)  
+🟧 &nbsp;[Set/2020 - Jul/2024] Engenheiro de Software no Itaú  
+💻 &nbsp;[Set/2020 - Jul/2024] Desenvolvedor Web Full Stack na Ada  
+👨‍🏫 &nbsp;[Set/2020 - Jul/2024] Professor na Ada (Web Full Stack e Data Science)  
 👨‍🏫 &nbsp;[Mar/2020 - Jul/2020] Professor na Kronos Nexus  
 
 ## 🛠️ Skills
