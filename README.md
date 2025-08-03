@@ -20,7 +20,7 @@
 
 ## Experiência Profissional
 
-🟧 &nbsp;[Set/2020 - Jul/2024] Engenheiro de Software no Itaú  
+🟧 &nbsp;[Jul/2024 - Presente] Engenheiro de Software no Itaú  
 💻 &nbsp;[Set/2020 - Jul/2024] Desenvolvedor Web Full Stack na Ada  
 👨‍🏫 &nbsp;[Set/2020 - Jul/2024] Professor na Ada (Web Full Stack e Data Science)  
 👨‍🏫 &nbsp;[Mar/2020 - Jul/2020] Professor na Kronos Nexus  
